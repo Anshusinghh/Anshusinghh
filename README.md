@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anshusinghh
-- 👀 I’m interested in understanding and creating
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python and web technologies
 
 
